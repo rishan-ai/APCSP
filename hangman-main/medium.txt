@@ -1,0 +1,10 @@
+python
+laptop
+javascript
+programming
+computer
+keyboard
+mouse
+monitor
+printer
+scanner
